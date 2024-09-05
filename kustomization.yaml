@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - psql/psql.secret.enc.yaml
   - kk/kk.secret.enc.yaml
+  - jks/jks.secret.enc.yaml
