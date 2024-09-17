@@ -5,4 +5,5 @@ resources:
   - flask/flask.secret.enc.yaml
   - psql/psql.secret.enc.yaml
   - kk/kk.secret.enc.yaml
+  - monitoring/monitoring.secret.enc.yaml
   - jks/jks.secret.enc.yaml
